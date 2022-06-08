@@ -5,7 +5,7 @@ const ejs = require("ejs");
 const mongoose = require('mongoose');
 
 
-const homeStartingContent = "Welcome to Daily Journal!!!  How to publish a blog ?   1. Click on COMPOSE.   2. Enter the title in the title field.   3. Enter the text which you want to publish in the post field.    4. Click on publish button.";
+const homeStartingContent = "Welcome to Daily Journal!!!  To Compose ?   1. Click on COMPOSE.   2. Enter the title in the title field.   3. Enter the text which you want to publish in the post field.    4. Click on publish button.";
 const aboutContent = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.";
 const contactContent = "Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Facilisis mauris sit amet massa vitae. Ac tincidunt vitae semper quis lectus nulla at. Nec dui nunc mattis enim. Euismod lacinia at quis risus sed. Suscipit adipiscing bibendum est ultricies integer. Nunc pulvinar sapien et ligula ullamcorper malesuada. Gravida neque convallis a cras semper auctor. Ultricies integer quis auctor elit sed vulputate mi. Id aliquet lectus proin nibh. Sed viverra ipsum nunc aliquet bibendum. Eget nullam non nisi est.";
 
