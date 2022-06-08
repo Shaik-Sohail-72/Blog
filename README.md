@@ -9,8 +9,9 @@ This webapp is deployed on Heroku.
 
 https://blog72.herokuapp.com/
 
-![Screenshot (332)](https://user-images.githubusercontent.com/106341416/170886777-be4903a9-3c6e-448d-8d3d-765579fc3b0a.png)
-![Screenshot (333)](https://user-images.githubusercontent.com/106341416/170886765-111ed762-b151-4d23-a7d8-231708eb9899.png)
-![Screenshot (334)](https://user-images.githubusercontent.com/106341416/170886769-9d99eedd-870a-4447-9221-f1f1db5b5790.png)
-![Screenshot (335)](https://user-images.githubusercontent.com/106341416/170886771-e1b6632c-ba2f-49d3-b61c-9df40a78d9a8.png)
-![Screenshot (336)](https://user-images.githubusercontent.com/106341416/170886772-2ee1214e-3212-4b6f-bf75-d872eb0b7784.png)
+
+![Screenshot (381)](https://user-images.githubusercontent.com/106341416/172656341-eb09b0da-5d03-45ff-9150-9db067ca069c.png)
+![Screenshot (382)](https://user-images.githubusercontent.com/106341416/172656352-05336044-4735-456c-891e-7560ce520ed5.png)
+![Screenshot (383)](https://user-images.githubusercontent.com/106341416/172656366-0d1a3419-a377-4a83-bd92-0f9be13af634.png)
+![Screenshot (384)](https://user-images.githubusercontent.com/106341416/172656380-7afa36d2-d40e-4da6-997c-3b820ad3c734.png)
+![Screenshot (385)](https://user-images.githubusercontent.com/106341416/172656385-6dd5d2bc-72e5-43dd-9920-5b7c971bf7cc.png)
