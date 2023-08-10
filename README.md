@@ -9,7 +9,6 @@ This webapp is deployed on Heroku.
 
 https://blog72.herokuapp.com/
 
-
 ![Screenshot (381)](https://user-images.githubusercontent.com/106341416/172656341-eb09b0da-5d03-45ff-9150-9db067ca069c.png)
 ![Screenshot (382)](https://user-images.githubusercontent.com/106341416/172656352-05336044-4735-456c-891e-7560ce520ed5.png)
 ![Screenshot (383)](https://user-images.githubusercontent.com/106341416/172656366-0d1a3419-a377-4a83-bd92-0f9be13af634.png)
